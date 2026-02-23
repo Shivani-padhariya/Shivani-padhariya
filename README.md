@@ -12,8 +12,6 @@
 
 ### 🚀 Projects
 - 🔹 AI-Powered Resume Builder (HTML, JS, PHP, MySQL, OpenAI)
-- 🔹 Portfolio Website (Coming Soon)
-- 🔹 AI Job & Internship Tracker (Planned)
 
 ### 🎯 Currently Learning
 - Data Structures & Algorithms
